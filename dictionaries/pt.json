@@ -10,17 +10,13 @@
   },
   "home": {
     "hero": {
-      "featured": "soluções para educação",
-      "title": "Desenvolvemos",
-      "subtitle": "Criamos soluções de código aberto para melhorar a educação. Ajudamos empresas, escolas, universidades e criadores de conteúdo a oferecer a melhor experiência de aprendizado possível."
+      "featured": "cursos interativos",
+      "title": "Aprenda qualquer assunto com",
+      "subtitle": "Domine qualquer habilidade ou assunto com exercícios interativos personalizados, projetados para tornar o aprendizado rápido, fácil e divertido."
     },
     "metadata": {
-      "title": "Zoonk: Ferramentas abertas para educação",
-      "description": "A Zoonk fornece ferramentas de código aberto para empresas, escolas, universidades e criadores de conteúdo.",
-      "twitter": {
-        "title": "Zoonk",
-        "description": "Fornecemos ferramentas de código aberto para empresas, escolas, universidades e criadores de conteúdo."
-      }
+      "title": "Use IA para aprender qualquer coisa",
+      "description": "Crie cursos interativos usando inteligência artificial como ChatGPT para aprender qualquer assunto ou habilidade que você queira."
     }
   },
   "privacy": {

@@ -10,17 +10,13 @@
   },
   "home": {
     "hero": {
-      "featured": "solutions for education",
-      "title": "Open-source",
-      "subtitle": "We develop open-source solutions to improve education. We help businesses, schools, universities and content creators to offer the best possible learning experience."
+      "featured": "interactive courses",
+      "title": "Learn anything with",
+      "subtitle": "Master any skill or subject with personalized, interactive exercises designed to make learning fast, easy, and fun."
     },
     "metadata": {
-      "title": "Zoonk: Open-source solutions for education",
-      "description": "Zoonk provides open-source learning tools for businesses, schools, universities and content creators.",
-      "twitter": {
-        "title": "Zoonk",
-        "description": "We provide open-source learning tools for businesses, schools, universities and content creators."
-      }
+      "title": "Use AI to learn anything",
+      "description": "Create interactive courses using artificial intelligence like ChatGPT to learn any subject or skill you want."
     }
   },
   "privacy": {

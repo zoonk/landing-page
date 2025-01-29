@@ -25,11 +25,6 @@ export async function generateMetadata({
       canonical: "/en",
       languages: { en: "/en", pt: "/pt" },
     },
-    twitter: {
-      title: t.home.metadata.twitter.title,
-      description: t.home.metadata.twitter.description,
-      creator: "@zoonkeducation",
-    },
   };
 }
 
