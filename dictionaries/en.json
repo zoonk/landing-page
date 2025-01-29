@@ -13,6 +13,16 @@
     "metadata": {
       "title": "Use AI to learn anything",
       "description": "Create interactive courses using artificial intelligence like ChatGPT to learn any subject or skill you want."
+    },
+    "sponsor": {
+      "title": "Lifetime Access – Limited Offer",
+      "description": "Sponsor the project before launch and get lifetime access with 50% off: Only $49 for Basic, $149 for Plus. Spots are limited. This offer is for individual users only.",
+      "action": "Get Lifetime Access"
+    },
+    "waitlist": {
+      "title": "Get 15% Off for a Year",
+      "description": "Sign up for the waitlist and lock in 15% off for an entire year. No catch—just a thank you for being one of the first to join. This is offer is valid for individuals and teams.",
+      "action": "Join the Waitlist"
     }
   },
   "privacy": {

@@ -4,7 +4,7 @@ export default function TermsOfServiceEN() {
       <h1 className="text-3xl font-bold mb-8">Terms of service</h1>
 
       <div className="space-y-6">
-        <p>Effective date: 11/12/23</p>
+        <p>Effective date: 01/29/25</p>
 
         <section>
           <h2 className="text-2xl font-semibold mb-2">1. Introduction</h2>
@@ -17,14 +17,13 @@ export default function TermsOfServiceEN() {
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-2">
-            2. User-Generated Content
-          </h2>
+          <h2 className="text-2xl font-semibold mb-2">2. Generated Content</h2>
           <p>
-            Users can create and share a variety of interactive courses on our
-            platforms. You are responsible for ensuring the accuracy and
-            appropriateness of the content you create or use. Zoonk does not
-            endorse or assume liability for user-generated content.
+            Users and artificial intelligence agents can create a variety of
+            interactive courses on our platforms. You are responsible for
+            ensuring the accuracy and appropriateness of the content you create
+            or use. Zoonk does not endorse or assume liability for generated
+            content, either by other users or by artificial intelligence.
           </p>
         </section>
 
@@ -33,8 +32,9 @@ export default function TermsOfServiceEN() {
           <p>
             All financial transactions are processed through Stripe. Zoonk
             reserves the right to remove user accounts for frequently contesting
-            credit card charges. Users should request refunds within 30 days of
-            purchase instead.
+            credit card charges since those represent a high risk for us because
+            we can lose our Stripe account when that happens. Users should
+            request refunds within 30 days of purchase instead.
           </p>
         </section>
 
@@ -124,8 +124,8 @@ export default function TermsOfServiceEN() {
             6. Copyright and Intellectual Property
           </h2>
           <p>
-            You must not create or share content that violates copyright laws.
-            Report any copyright violations to us. Plagiarism may result in
+            You must not share content that violates copyright laws. Report any
+            copyright violations to hello@zoonk.org. Plagiarism may result in
             account termination.
           </p>
         </section>
@@ -135,8 +135,8 @@ export default function TermsOfServiceEN() {
             7. Liability and Disclaimer
           </h2>
           <p>
-            Zoonk is not liable for the accuracy or reliability of
-            user-generated content or content in our paid libraries.
+            Zoonk is not liable for the accuracy or reliability of generated
+            content, either by users or artificial intelligence.
           </p>
         </section>
 
@@ -154,7 +154,13 @@ export default function TermsOfServiceEN() {
           <p>
             Zoonk reserves the right to change pricing policies with a 30-day
             notice. We may also amend these Terms at any time, with notice
-            provided to users.
+            provided to users. Lifetime access is valid for the plans and
+            features available at the time of purchase. We may add new plans
+            that are not available for lifetime access. Plus, lifetitime access
+            has limited spots (5,000 spots for the Basic Plan and 1,000 spots
+            for the Plus Plan) - once they are sold out, we will not offer it
+            again. Lifetime access is only available to individual users, not to
+            teams or content creators.
           </p>
         </section>
 
@@ -181,7 +187,8 @@ export default function TermsOfServiceEN() {
           </h2>
           <p>
             Content creators are independent and not Zoonk employees. They have
-            the freedom to manage their content.
+            the freedom to manage their content but must comply with our code of
+            coduct and terms of use.
           </p>
         </section>
 

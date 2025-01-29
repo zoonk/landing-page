@@ -17,7 +17,7 @@ export default function Card({
   action,
 }: CardProps) {
   return (
-    <div className="group relative -mx-3 flex gap-6 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 flex-col sm:p-6">
+    <div className="group relative -mx-3 flex flex-1 gap-6 rounded-lg p-3 text-sm leading-6 hover:bg-gray-50 flex-col sm:p-6">
       {image && (
         <Image src={image.src} height={24} unoptimized alt={image.alt} />
       )}

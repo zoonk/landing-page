@@ -4,7 +4,7 @@ export default function TermsOfServicePT() {
       <h1 className="text-3xl font-bold mb-8">Termos de Serviço</h1>
 
       <div className="space-y-6">
-        <p>Data de vigência: 12/11/23</p>
+        <p>Data de vigência: 29/01/25</p>
 
         <section>
           <h2 className="text-2xl font-semibold mb-2">1. Introdução</h2>
@@ -17,15 +17,14 @@ export default function TermsOfServicePT() {
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-2">
-            2. Conteúdo Gerado pelo Usuário
-          </h2>
+          <h2 className="text-2xl font-semibold mb-2">2. Conteúdo Gerado</h2>
           <p>
-            Os usuários podem criar e compartilhar uma variedade de cursos
-            interativos em nossas plataformas. Você é responsável por garantir a
-            precisão e a adequação do conteúdo que cria ou utiliza. A Zoonk não
-            endossa nem assume responsabilidade pelo conteúdo gerado pelo
-            usuário.
+            Usuários e agentes de inteligência artificial podem criar uma
+            variedade de cursos interativos em nossas plataformas. Você é
+            responsável por garantir a precisão e a adequação do conteúdo que
+            cria ou utiliza. A Zoonk não endossa nem assume responsabilidade
+            pelo conteúdo gerado por outros usuários ou pela inteligência
+            artificial.
           </p>
         </section>
 
@@ -34,8 +33,11 @@ export default function TermsOfServicePT() {
           <p>
             Todas as transações financeiras são processadas através do Stripe. A
             Zoonk reserva-se o direito de remover contas de usuários por
-            contestarem frequentemente cobranças no cartão de crédito. Os
-            usuários devem solicitar reembolsos dentro de 30 dias após a compra.
+            contestarem frequentemente cobranças no cartão de crédito, já que
+            elas representam um alto risco porque podemos perder a nossa conta
+            no Stripe quando isso acontece. Os usuários devem solicitar
+            reembolsos dentro de 30 dias após a compra ao invés de contestar a
+            compra.
           </p>
         </section>
 
@@ -131,9 +133,9 @@ export default function TermsOfServicePT() {
             6. Direitos Autorais e Propriedade Intelectual
           </h2>
           <p>
-            Você não deve criar ou compartilhar conteúdo que viole as leis de
-            direitos autorais. Denuncie quaisquer violações de direitos autorais
-            a nós. O plágio pode resultar no encerramento da conta.
+            Você não deve compartilhar conteúdo que viole as leis de direitos
+            autorais. Denuncie quaisquer violações de direitos autorais a
+            contato@zoonk.org. O plágio pode resultar no encerramento da conta.
           </p>
         </section>
 
@@ -143,8 +145,7 @@ export default function TermsOfServicePT() {
           </h2>
           <p>
             A Zoonk não é responsável pela precisão ou confiabilidade do
-            conteúdo gerado pelo usuário ou conteúdo em nossas bibliotecas
-            pagas.
+            conteúdo gerado por usuários ou inteligência artificial.
           </p>
         </section>
 
@@ -165,7 +166,14 @@ export default function TermsOfServicePT() {
           <p>
             A Zoonk reserva-se o direito de alterar as políticas de preços com
             um aviso prévio de 30 dias. Também podemos alterar estes Termos a
-            qualquer momento, com aviso fornecido aos usuários.
+            qualquer momento, com aviso fornecido aos usuários. O acesso
+            vitalício é válido para os planos e recursos disponíveis no momento
+            da compra. Podemos adicionar novos planos que não estarão
+            disponíveis para acesso vitalício. Além disso, o acesso vitalício
+            tem vagas limitadas (5.000 vagas para o Plano Básico e 1.000 vagas
+            para o Plano Plus) - uma vez esgotadas, não as ofereceremos
+            novamente. O acesso vitalício está disponível apenas para usuários
+            individuais, não para equipes ou criadores de conteúdo.
           </p>
         </section>
 
@@ -192,7 +200,8 @@ export default function TermsOfServicePT() {
           </h2>
           <p>
             Os criadores de conteúdo são independentes e não funcionários da
-            Zoonk. Eles têm a liberdade de gerenciar seu conteúdo.
+            Zoonk. Eles têm a liberdade de gerenciar seu conteúdo, mas devem
+            estar de acordo com o nosso código de conduta e termos de uso.
           </p>
         </section>
 

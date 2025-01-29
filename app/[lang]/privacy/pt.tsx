@@ -4,7 +4,7 @@ export default function PrivacyPolicyPT() {
       <h1 className="text-3xl font-bold mb-8">Política de Privacidade</h1>
 
       <div className="space-y-6">
-        <p>Data efetiva: 11/11/23</p>
+        <p>Data efetiva: 29/01/25</p>
 
         <section>
           <h2 className="text-2xl font-semibold mb-2">1. Introdução</h2>
@@ -17,22 +17,22 @@ export default function PrivacyPolicyPT() {
 
         <section>
           <h2 className="text-2xl font-semibold mb-2">2. Coleta de Dados</h2>
-          <p>Coletamos as seguintes informações quando você se registra:</p>
+          <p>
+            Podemos coletar as seguintes informações quando você se cadastra:
+          </p>
           <ul className="py-4 list-disc">
             <li>Nome completo</li>
             <li>Data de nascimento</li>
             <li>Endereço de email</li>
             <li>Foto do perfil</li>
+            <li>País de residência e nascimento</li>
+            <li>Nome de usuário</li>
+            <li>Interesses pessoais</li>
           </ul>
 
           <p>
             Além disso, coletamos dados sobre suas interações no site, idioma
-            preferido e endereço IP para fins de segurança. Usamos{" "}
-            <a className="text-blue-600 underline" href="https://plausible.io">
-              Plausible
-            </a>{" "}
-            para análise, que rastreia páginas visitadas, referências e
-            localização, sem usar cookies ou rastrear informações pessoais.
+            preferido e endereço IP para fins de segurança.
           </p>
         </section>
 
@@ -41,10 +41,11 @@ export default function PrivacyPolicyPT() {
             3. Uso dos Dados Coletados
           </h2>
           <p>
-            Seus dados são usados para melhorar a experiência do usuário e para
-            fins de feedback. Os endereços de email são usados para notificações
-            essenciais e, com consentimento explícito, para comunicações de
-            marketing. Não compartilhamos seus dados com terceiros.
+            Seus dados são usados para criar cursos personalizados adaptados às
+            suas necessidades e interesses. Os endereços de email são usados
+            para notificações essenciais e, com consentimento explícito, para
+            comunicações de marketing. Não compartilhamos seus dados com
+            terceiros.
           </p>
         </section>
 
@@ -55,8 +56,7 @@ export default function PrivacyPolicyPT() {
           <p>
             Você tem o direito de atualizar seus dados a qualquer momento na
             seção “Configurações”. Você pode solicitar a exclusão de dados
-            entrando em contato com contato@zoonk.org. Observe que não
-            oferecemos opções de recusar o nosso rastreamento de análise.
+            entrando em contato com contato@zoonk.org.
           </p>
         </section>
 
@@ -85,7 +85,8 @@ export default function PrivacyPolicyPT() {
           <p>
             Podemos atualizar esta política para refletir mudanças em nossas
             práticas. Sempre que fizermos alterações significativas,
-            notificaremos você por email.
+            notificaremos os usuários cadastrados por e-mail ou quando acessarem
+            a sua conta em um dos nossos websites ou aplicativos móveis.
           </p>
         </section>
 

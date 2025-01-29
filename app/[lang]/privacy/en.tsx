@@ -4,7 +4,7 @@ export default function PrivacyPolicyEN() {
       <h1 className="text-3xl font-bold mb-8">Privacy Policy</h1>
 
       <div className="space-y-6">
-        <p>Effective date: 11/11/23</p>
+        <p>Effective date: 01/29/25</p>
 
         <section>
           <h2 className="text-2xl font-semibold mb-2">1. Introduction</h2>
@@ -16,21 +16,19 @@ export default function PrivacyPolicyEN() {
 
         <section>
           <h2 className="text-2xl font-semibold mb-2">2. Data Collection</h2>
-          <p>We collect the following information when you register:</p>
+          <p>We may collect the following information when you register:</p>
           <ul className="py-4 list-disc">
             <li>Full name</li>
             <li>Date of birth</li>
             <li>Email address</li>
             <li>Profile picture</li>
+            <li>Country of residence and birth</li>
+            <li>Username</li>
+            <li>Personal interests</li>
           </ul>
           <p>
             Additionally, we collect data on your website interactions,
-            preferred language, and IP address for security purposes. We use{" "}
-            <a className="text-blue-600 underline" href="https://plausible.io">
-              Plausible
-            </a>{" "}
-            for analytics, which tracks pages visited, referrer, and location,
-            without using cookies or tracking personal information.
+            preferred language, and IP address for security purposes
           </p>
         </section>
 
@@ -39,10 +37,10 @@ export default function PrivacyPolicyEN() {
             3. Use of Collected Data
           </h2>
           <p>
-            Your data is used to enhance user experience and for feedback
-            purposes. Email addresses are used for essential notifications and,
-            with explicit consent, for marketing communications. We do not share
-            your data with third parties.
+            Your data is used to create personalized courses tailored to your
+            needs and interests. Email addresses are used for essential
+            notifications and, with explicit consent, for marketing
+            communications. We do not share your data with third parties.
           </p>
         </section>
 
@@ -51,8 +49,7 @@ export default function PrivacyPolicyEN() {
           <p>
             You have the right to update your data at any time in the “Settings”
             section. You can request data deletion by contacting
-            support@zoonk.org. Note that we do not offer opt-out options for our
-            analytics tracking.
+            hello@zoonk.org.
           </p>
         </section>
 
@@ -77,7 +74,9 @@ export default function PrivacyPolicyEN() {
           <h2 className="text-2xl font-semibold mb-2">7. Policy Updates</h2>
           <p>
             We may update this policy to reflect changes in our practices.
-            Whenever we make significant changes, we will notify you by email.
+            Whenever we make significant changes, we will notify registered
+            users by email or when they access their account in our websites or
+            mobile apps.
           </p>
         </section>
 
@@ -87,7 +86,7 @@ export default function PrivacyPolicyEN() {
           </h2>
           <p>
             For any questions regarding this policy, please contact us at
-            support@zoonk.org.
+            hello@zoonk.org.
           </p>
         </section>
       </div>
