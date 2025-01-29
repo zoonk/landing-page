@@ -1,8 +1,4 @@
 {
-  "header": {
-    "about": "About",
-    "contact": "Contact us"
-  },
   "footer": {
     "powered_by": "Created with ❤️ by",
     "terms": "Terms of Service",
@@ -31,22 +27,7 @@
       "description": "Terms of Service for Zoonk."
     }
   },
-  "contact": {
-    "title": "Contact us",
-    "questions": {
-      "title": "Support",
-      "description": "You can ask general questions about our products on our community forum.",
-      "action": "Ask question"
-    },
-    "sales": {
-      "title": "Sales or partnerships",
-      "description": "If you want to talk about sales or partnerships, please send an email to hello@zoonk.org."
-    },
-    "metadata": {
-      "title": "Contact us - Zoonk",
-      "description": "Reach out to the Zoonk team."
-    }
-  },
+
   "social": {
     "github": "https://github.com/zoonk",
     "x": "https://x.com/zoonkeducation",

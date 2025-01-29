@@ -1,8 +1,4 @@
 {
-  "header": {
-    "about": "Sobre",
-    "contact": "Fale conosco"
-  },
   "footer": {
     "powered_by": "Criado com ❤️ por",
     "terms": "Termos de uso",
@@ -31,22 +27,7 @@
       "description": "Termos de uso da Zoonk."
     }
   },
-  "contact": {
-    "title": "Fale conosco",
-    "questions": {
-      "title": "Ajuda",
-      "description": "Para dúvidas ou ajuda com os nossos produtos, use o fórum da comunidade.",
-      "action": "Tirar dúvida"
-    },
-    "sales": {
-      "title": "Vendas ou parcerias",
-      "description": "Se você deseja falar sobre vendas ou parcerias, por favor envie um e-mail para contato@zoonk.org."
-    },
-    "metadata": {
-      "title": "Fale conosco",
-      "description": "Entre em contato com a Zoonk por e-mail."
-    }
-  },
+
   "social": {
     "github": "https://github.com/zoonk",
     "x": "https://x.com/zoonkbrasil",
