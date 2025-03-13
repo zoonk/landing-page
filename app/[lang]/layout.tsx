@@ -19,7 +19,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   manifest: "/site.webmanifest",
   category: "education",
-  metadataBase: new URL("https://zoonk.org"),
+  metadataBase: new URL("https://zoonk.com"),
 };
 
 export async function generateStaticParams(): Promise<LanguageParams[]> {

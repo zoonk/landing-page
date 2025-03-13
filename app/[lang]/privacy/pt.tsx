@@ -56,7 +56,7 @@ export default function PrivacyPolicyPT() {
           <p>
             Você tem o direito de atualizar seus dados a qualquer momento na
             seção “Configurações”. Você pode solicitar a exclusão de dados
-            entrando em contato com contato@zoonk.org.
+            entrando em contato com contato@zoonk.com.
           </p>
         </section>
 
@@ -96,7 +96,7 @@ export default function PrivacyPolicyPT() {
           </h2>
           <p>
             Para qualquer dúvida sobre esta política, entre em contato conosco
-            em contato@zoonk.org.
+            em contato@zoonk.com.
           </p>
         </section>
       </div>

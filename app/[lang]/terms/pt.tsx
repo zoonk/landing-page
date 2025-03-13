@@ -91,7 +91,7 @@ export default function TermsOfServicePT() {
               direitos autorais também é proibido. Se você acredita que seu
               conteúdo foi copiado de uma maneira que constitui uma violação de
               direitos autorais, por favor, entre em contato conosco em
-              contato@zoonk.org.
+              contato@zoonk.com.
             </li>
 
             <li>
@@ -135,7 +135,7 @@ export default function TermsOfServicePT() {
           <p>
             Você não deve compartilhar conteúdo que viole as leis de direitos
             autorais. Denuncie quaisquer violações de direitos autorais a
-            contato@zoonk.org. O plágio pode resultar no encerramento da conta.
+            contato@zoonk.com. O plágio pode resultar no encerramento da conta.
           </p>
         </section>
 
@@ -191,7 +191,7 @@ export default function TermsOfServicePT() {
           <h2 className="text-2xl font-semibold mb-2">
             11. Informações de Contato
           </h2>
-          <p>Para consultas, entre em contato conosco em contato@zoonk.org.</p>
+          <p>Para consultas, entre em contato conosco em contato@zoonk.com.</p>
         </section>
 
         <section>

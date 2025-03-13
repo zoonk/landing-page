@@ -56,7 +56,7 @@ export default async function Footer({ locale }: FooterProps) {
       <p className="flex mt-6 gap-1 text-xs text-slate-500 sm:mt-0">
         <span>{t.footer.powered_by}</span>
         <a
-          href="https://zoonk.org"
+          href="https://zoonk.com"
           className="hover:opacity-80 transition-opacity"
         >
           <Image src={zoonkLogo} height={16} alt="Zoonk logo" unoptimized />

@@ -87,7 +87,7 @@ export default function TermsOfServiceEN() {
               Copyrighted Content: Content protected by copyright laws is also
               prohibited. If you believe your content has been copied in a way
               that constitutes copyright infringement, please contact us at
-              hello@zoonk.org.
+              hello@zoonk.com.
             </li>
 
             <li>
@@ -125,7 +125,7 @@ export default function TermsOfServiceEN() {
           </h2>
           <p>
             You must not share content that violates copyright laws. Report any
-            copyright violations to hello@zoonk.org. Plagiarism may result in
+            copyright violations to hello@zoonk.com. Plagiarism may result in
             account termination.
           </p>
         </section>
@@ -178,7 +178,7 @@ export default function TermsOfServiceEN() {
           <h2 className="text-2xl font-semibold mb-2">
             11. Contact Information
           </h2>
-          <p>For inquiries, contact us at hello@zoonk.org.</p>
+          <p>For inquiries, contact us at hello@zoonk.com.</p>
         </section>
 
         <section>

@@ -49,7 +49,7 @@ export default function PrivacyPolicyEN() {
           <p>
             You have the right to update your data at any time in the “Settings”
             section. You can request data deletion by contacting
-            hello@zoonk.org.
+            hello@zoonk.com.
           </p>
         </section>
 
@@ -86,7 +86,7 @@ export default function PrivacyPolicyEN() {
           </h2>
           <p>
             For any questions regarding this policy, please contact us at
-            hello@zoonk.org.
+            hello@zoonk.com.
           </p>
         </section>
       </div>
