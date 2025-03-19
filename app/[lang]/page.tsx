@@ -22,10 +22,6 @@ export async function generateMetadata({
   return {
     title: t.home.metadata.title,
     description: t.home.metadata.description,
-    alternates: {
-      canonical: "/en",
-      languages: { en: "/en", pt: "/pt" },
-    },
   };
 }
 

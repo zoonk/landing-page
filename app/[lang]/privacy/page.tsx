@@ -16,10 +16,6 @@ export async function generateMetadata({
   return {
     title: t.privacy.metadata.title,
     description: t.privacy.metadata.description,
-    alternates: {
-      canonical: "/en/privacy",
-      languages: { en: "/en/privacy", pt: "/pt/privacy" },
-    },
   };
 }
 
