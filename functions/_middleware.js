@@ -57,9 +57,8 @@ export async function onRequest(context) {
   const request = context.request;
   const url = new URL(request.url);
 
-  // If it's not the home page, then we don't need to redirect.
-  // We just use the current locale.
-  if (url.pathname !== "/") {
+  // if the user is already on a supported locale, do nothing
+  if (url.pathname.startsWith("/en") || url.pathname.startsWith("/pt")) {
     return await context.next();
   }
 
