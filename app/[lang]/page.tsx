@@ -2,7 +2,7 @@ import Card from "@/components/Card";
 import Hero from "@/components/Hero";
 import { getDictionary } from "@/dictionaries";
 import type { LanguageParams } from "@/types";
-import { IconDiscount2, IconInfinity } from "@tabler/icons-react";
+import { IconDiscount2 } from "@tabler/icons-react";
 import type { Metadata } from "next";
 
 const WAILIST_FORM_URL = {
@@ -40,16 +40,6 @@ export default async function Home({ params }: HomeProps) {
           action={{
             href: WAILIST_FORM_URL[params.lang],
             label: t.home.waitlist.action,
-          }}
-        />
-
-        <Card
-          title={t.home.sponsor.title}
-          description={t.home.sponsor.description}
-          icon={<IconInfinity />}
-          action={{
-            href: "https://github.com/sponsors/ceolinwill?frequency=one-time",
-            label: t.home.sponsor.action,
           }}
         />
       </section>
